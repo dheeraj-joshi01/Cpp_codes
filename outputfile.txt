@@ -1,0 +1,10 @@
+334500	/home
+334440	/home/ubuntu
+253544	/home/ubuntu/.cache
+242820	/home/ubuntu/.cache/mozilla
+242816	/home/ubuntu/.cache/mozilla/firefox
+242808	/home/ubuntu/.cache/mozilla/firefox/7lrqsq63.default-release
+213472	/home/ubuntu/.cache/mozilla/firefox/7lrqsq63.default-release/cache2
+213276	/home/ubuntu/.cache/mozilla/firefox/7lrqsq63.default-release/cache2/entries
+47612	/home/ubuntu/.mozilla
+47600	/home/ubuntu/.mozilla/firefox
